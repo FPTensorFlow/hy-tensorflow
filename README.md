@@ -1,4 +1,4 @@
-## Hylang TensorFlow : [hylang与Python互操作](http://docs.hylang.org/en/latest/tutorial.html#hy-python-interop), 调用tensorflow
+# Tensorflow Tutorials in Hylang
 
 ```clojure
 ➜  ~ hy
